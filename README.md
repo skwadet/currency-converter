@@ -1,5 +1,3 @@
-# qmobi_task
-
 There was some problems with docker-compose, so I had to use only docker.
 
 **To build and start this container you need to:**
